@@ -12,7 +12,6 @@ Atualmente trabalho como Personal Trainer e estou iniciando meus estudos em prog
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pri-pic" height="100" style="border-radius:50px;" src="https://www.instagram.com/p/CY9wpHulWXBjHIqDhqmsptapfrVF1vyW_7UokE0/">
 </div>
 
   ##
