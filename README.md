@@ -1,13 +1,16 @@
 ### Oi! 👋 Eu sou a Priscila Righi
 
-Atualmente trabalho como Personal Trainer e estou iniciando meus estudos em programação.
+Atualmente trabalho como Personal Trainer e estou iniciando meus estudos e carreira em programação.
 
+Estagiária do Itaú Unibanco.
 
 <div>
   <a href="https://beacons.ai/pri-righi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pri-righi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-righi&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+LEARNING
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
