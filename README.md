@@ -1,6 +1,8 @@
 ### Oi! 👋 Eu sou a Priscila Righi
 
-Atualmente trabalho como Personal Trainer e estou iniciando meus estudos e carreira em programação.
+Tenho 35 anos e atualmente trabalho como Personal Trainer, atuando na área desde 2010.
+
+Estou em transição de carreira para área de programação.
 
 Estagiária do Itaú Unibanco.
 
